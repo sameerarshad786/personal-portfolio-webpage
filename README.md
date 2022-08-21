@@ -2,4 +2,4 @@
 freecodecamp personal portfolio webpage - certification project
 
 click the link to check the demo of this code 
-https://github.com/sameerarshad786/technical-documentation
+https://sameerarshad786.github.io/personal-portfolio-webpage/
